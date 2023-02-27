@@ -11,6 +11,6 @@ public class PacmanGame implements GamingConsole {
         System.out.println("Go Left");
     }
     public void right(){
-        System.out.println("Go to Right");
+        System.out.println("Go Right");
     }
 }
